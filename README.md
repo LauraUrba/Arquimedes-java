@@ -1,7 +1,6 @@
-## 🗄️ Banco de Dados
+## 🗄️ Banco de Dados MySQL
 
-O projeto utiliza MySQL como banco de dados.
+O projeto utiliza um banco de dados MySQL chamado `arquimedes`.
 
-- Nome do banco: `arquimedes`
-- Script de criação: [`BD-Mysql/Arquimedes.sql`](BD-Mysql/Arquimedes.sql)
-- Basta importar esse `.sql` no MySQL Workbench ou phpMyAdmin para montar o banco local.
+- Script de exportação disponível em [`BD-Mysql/Arquimedes.sql`](BD-Mysql/Arquimedes.sql)
+- Para importar: abra o MySQL Workbench ou phpMyAdmin e execute o script
